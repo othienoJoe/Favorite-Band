@@ -19,20 +19,59 @@ h3 {
 	color: red;
 }
 
-h1>img{
-	height: 655px;
-	width: 100em;
+header img{
+	height: 40em;
+	width: 80em;
 }
 img {
-	height: 400px;
-	width: 400px;
+	height: 20em;
+	width: 30em;
 }
 #members {
 	display: flex;
 }
-#team h2 {
+.Team {
 	text-align: center;
+	color: blue;
 }
 ol li {
 	text-align: center;
 }
+.Darlene {
+	display: flex;
+	margin-left: 5em;
+}
+.Robert {
+	display: flex;
+	margin-left: 5em;
+}
+.Joel {
+	display: flex;
+	margin-left: 5em;
+}
+.Brooke {
+	display: flex;
+	margin-left: 5em;
+}
+.Bullock {
+	display: flex;
+	margin-left: 5em;
+}
+.Matty {
+	display: flex;
+	margin-left: 5em;
+}
+.Albums {
+	text-align: center;
+}
+.song {
+	font-style: italic;
+}
+footer {
+	text-align: center;
+}
+footer h2 {
+	color: blue;
+}
+footer h4 {
+	color: red;
