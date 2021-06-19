@@ -1,0 +1,38 @@
+html {
+	background-color: #00ffff;
+}
+header {
+	color: gold;
+	border: double;
+	text-align: center;
+	border-color: green;
+}
+.intro h2{
+	color: blue;
+}
+.intro {
+	text-align: center;
+	justify-content: center;
+}
+h3 {
+	font-style: italic;
+	color: red;
+}
+
+h1>img{
+	height: 655px;
+	width: 100em;
+}
+img {
+	height: 400px;
+	width: 400px;
+}
+#members {
+	display: flex;
+}
+#team h2 {
+	text-align: center;
+}
+ol li {
+	text-align: center;
+}
