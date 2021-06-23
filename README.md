@@ -21,4 +21,4 @@ Support and contact details
 nickodemus.otsieno@student.moringaschool.com}
 
 License
-*{MIT Licence.} **(C)2021.Annita's Kitchen
+*{MIT Licence.} **(C)2021.Favorite Band
